@@ -1,0 +1,8 @@
+1. Qn+1 = Qn + 1/n (Rn - Qn)
+2. 0.5
+3. 1/8
+4. 1
+5. 1/(t-1)
+6. The agent wants to explore to get more accurate estimates of its values. The agent also wants to exploit to get more reward. The agent cannot, however, choose to do both simultaneously.
+7. The 0.01 agent did not explore enough. Thus it ended up selecting a suboptimal arm for longer.
+8. Epsilon of 0.4 explores too often that it takes many sub-optimal actions causing it to do worse over the long term.
